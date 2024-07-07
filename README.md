@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Node.js**
 - 🎓 I'm a graduating class of Holberton School's ALX Africa SE program, specializing in backend development.
 - 💻 I have built projects using a diverse tech stack.
+- 📫 How to reach me **chapaeresso1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
