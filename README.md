@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chapa</h1>
-<h3 align="center">A passionate fullstack developer.</h3>
+<h3 align="center">A passionate fullstack web developer.</h3>
 
 - 🌱 I’m currently learning **Node.js**
 - 🎓 I'm a graduating class of Holberton School's ALX Africa SE program, specializing in backend development.
