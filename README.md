@@ -9,7 +9,7 @@
 <!-- About Me Section -->
 <h2>🚀 About Me</h2>
 <p>
-  I'm a passionate Fullstack Web Developer with a focus on backend development. I embarked on my software engineering journey with the ALX Software Engineering Program, where I acquired extensive knowledge in coding and building impactful web applications. Currently, I'm learning <strong>Node.js</strong> and expanding my backend expertise.
+  I'm a passionate Fullstack Web Developer with a focus on backend development. I embarked on my software engineering journey with the ALX Software Engineering Program, where I acquired extensive knowledge in coding and building impactful web applications. Currently, I'm interested in projects involving <strong>Mongodb , Mysql, Express, Flask,Node.js, React, EJS</strong> and expanding my backend expertise.
 </p>
 <p>
   I have built several projects using a diverse tech stack, and I'm inspired by how technology can solve real-world problems. I specialize in creating efficient, scalable solutions for web and mobile platforms.
@@ -42,24 +42,6 @@
 </p>
 
 <!-- Projects Section -->
-<h2>💼 Projects</h2>
-<ul>
-  <li>
-    <strong>[Project 1 Title]</strong> - Role: [Your Role]
-    <br>
-    Description: A [brief description of the project]. This project involved [technologies used] and aimed at [problem solved or feature built].
-  </li>
-  <li>
-    <strong>[Project 2 Title]</strong> - Role: [Your Role]
-    <br>
-    Description: A [brief description of the project]. My main contribution was [highlight major achievements].
-  </li>
-  <li>
-    <strong>[Project 3 Title]</strong> - Role: [Your Role]
-    <br>
-    Description: This project was focused on [short description of goal and how you contributed].
-  </li>
-</ul>
 
 <!-- GitHub Stats & Highlights Section -->
 <h2>📊 GitHub Stats</h2>
