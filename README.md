@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack Web Developer</h3>
 
 <p align="center">
-  <em>Graduating class of Holberton School's ALX Africa SE program, specializing in Backend Development</em>
+  <em>Graduate of Holberton School's ALX Africa  Fullstack Software Engineering program, specializing in Backend Development</em>
 </p>
 
 <!-- About Me Section -->
