@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Chapa</h1>
-<h3 align="center">A passionate Fullstack Web Developer</h3>
+<h3 align="center">A passionate Junior Software Engineer</h3>
 
 <p align="center">
   <em>Graduate of Holberton School's ALX Africa  Fullstack Software Engineering program, specializing in Backend Development</em>
@@ -9,7 +9,7 @@
 <!-- About Me Section -->
 <h2>🚀 About Me</h2>
 <p>
-  I'm a passionate Fullstack Web Developer with a focus on backend development. I embarked on my software engineering journey with the ALX Software Engineering Program, where I acquired extensive knowledge in coding and building impactful web applications. Currently, I'm interested in projects involving <strong> Node.js, Express, Flask, Jinja2, React, Mongodb, Mysql, EJS</strong> and expanding my backend expertise.
+  I'm a passionate Fullstack Web Developer with a focus on backend development. I embarked on my software engineering journey with the ALX Software Engineering Program, where I acquired extensive knowledge in coding and building impactful web applications. Currently, I'm interested in projects involving <strong> Node.js, Express, Flask, Jinja2, Mongodb, Mysql, EJS</strong> and expanding my backend expertise.
 </p>
 <p>
   I have built several projects using a diverse tech stack, and I'm inspired by how technology can solve real-world problems. I specialize in creating efficient, scalable solutions for web and mobile platforms.
