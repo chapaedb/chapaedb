@@ -64,10 +64,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chapaedb&label=Profile%20Views&pretty=false" />
-  </a>
-</p>
-<p align="center">
   💻 <strong>Always learning, always building</strong> 🌱
 </p>
