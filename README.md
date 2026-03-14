@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Chapa</h1>
-<h3 align="center">A passionate Junior Software Engineer</h3>
+<h3 align="center">A passionate Automation and Software Engineer</h3>
 
 <p align="center">
   <em>Graduate of Holberton School's ALX Africa  Fullstack Software Engineering program, specializing in Backend Development</em>
