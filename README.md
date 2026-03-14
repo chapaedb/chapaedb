@@ -1,68 +1,113 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Chapa</h1>
-<h3 align="center">A passionate Automation and Software Engineer</h3>
+<h3 align="center">Automation Engineer | Backend Developer | AI Workflow Builder</h3>
 
 <p align="center">
-  <em>Graduate of Holberton School's ALX Africa  Fullstack Software Engineering program, specializing in Backend Development</em>
+  <em>Graduate of Holberton School's ALX Africa Fullstack Software Engineering program, specializing in Backend Development</em>
 </p>
 
 <!-- About Me Section -->
 <h2>🚀 About Me</h2>
 <p>
-  I'm a passionate Fullstack Web Developer with a focus on backend development. I embarked on my software engineering journey with the ALX Software Engineering Program, where I acquired extensive knowledge in coding and building impactful web applications. Currently, I'm interested in projects involving <strong> Node.js, Express, Flask, Jinja2, Mongodb, Mysql, EJS</strong> and expanding my backend expertise.
+I'm an Automation Engineer and Backend Developer passionate about building intelligent systems that automate real-world workflows.
 </p>
+
 <p>
-  I have built several projects using a diverse tech stack, and I'm inspired by how technology can solve real-world problems. I specialize in creating efficient, scalable solutions for web and mobile platforms.
+I started my software engineering journey through the <strong>ALX Software Engineering Program</strong>, where I developed a strong foundation in backend development and fullstack engineering.
 </p>
+
 <p>
-  📫 How to reach me: <a href="mailto:chapaeresso1@gmail.com">chapaeresso1@gmail.com</a>
+Today, I focus on <strong>automation systems, AI agents, CRM integrations, and workflow orchestration</strong>, building solutions that connect platforms, automate business processes, and scale operations.
 </p>
+
+<p>
+My work often involves integrating tools like <strong>AI models, APIs, automation platforms, and CRM systems</strong> to create powerful end-to-end systems.
+</p>
+
+<p>
+📫 Reach me at: <a href="mailto:chapaeresso1@gmail.com">chapaeresso1@gmail.com</a>
+</p>
+
+---
+
+<h2>🤖 Automation & AI Systems</h2>
+
+<p>
+I build automation systems that connect business tools, AI models, and APIs to eliminate manual work and scale operations.
+</p>
+
+<ul>
+<li>AI Agent Workflows</li>
+<li>CRM Automation Systems</li>
+<li>Lead Generation & Follow-Up Automations</li>
+<li>AI Chatbots & Conversational Systems</li>
+<li>Workflow Orchestration with APIs</li>
+<li>Marketing & Sales Automation</li>
+</ul>
+
+---
 
 <!-- Languages & Tools Section -->
 <h2>🛠️ Languages and Tools</h2>
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<!-- Programming -->
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+
+<!-- Backend -->
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://flask.palletsprojects.com"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+
+<!-- Databases -->
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
+
+<!-- DevOps -->
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+
+<!-- Automation / AI -->
+<a href="https://n8n.io"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/></a>
+<a href="https://openai.com"><img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+
+<!-- Tools -->
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+<a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+
 </p>
 
-<!-- Projects Section -->
+---
 
-<!-- GitHub Stats & Highlights Section -->
+<!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chapaedb&show_icons=true&theme=radical" alt="Chapa's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapaedb&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chapaedb&show_icons=true&theme=radical" />
 </p>
 
-<!-- Connect Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapaedb&layout=compact&theme=radical" />
+</p>
+
+---
+
 <h2>🌐 Connect with Me</h2>
-<p>
-  Let's connect:
-</p>
+
 <p align="left">
-  <a href="https://linkedin.com/in/chapaedb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chapaedb" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/chapaedb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chapaedb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chapaedb"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/chapaedb/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
 </p>
 
-<!-- Footer -->
+---
+
 <p align="center">
-  💻 <strong>Always learning, always building</strong> 🌱
+💻 <strong>Building AI systems, automation workflows, and scalable backend applications</strong> 🚀
 </p>
